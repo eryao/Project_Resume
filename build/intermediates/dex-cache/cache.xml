@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ou/eryao/Android/Project_Resume/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ou/eryao/Android/Project_Resume/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_98e684f460481c5449cedee163652793f68b3dfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ou/eryao/Android/Project_Resume/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c09ff5265136f1883b6fabb0a404d4d6c21084cc">
+        <dex dex="/Users/ou/eryao/Android/Project_Resume/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_665e256ccb244cdedec4d6873efd3110a7a0122c/classes.dex" />
+    </item>
+
+</items>

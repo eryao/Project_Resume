@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="education">education</string>
+    <string name="experience">experience</string>
+    <string name="projects">projects</string>
+    <string name="action_save">Save</string>
+</resources>
