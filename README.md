@@ -1,0 +1,8 @@
+# Project_Resume
+Resume Sample
+
+Used LinearLayout and layout nesting to fin
+用LinearLayout和layout nesting完成了程序主界面，具有查看简历的功能，程序主界面包括Education，Experience和Projects三个section
+用Action Bar和独立的Activity实现了表单界面，用来编辑个人信息，单条的Education，Education以及Project
+用Parcelable实现了serialize和deserialize，从而实现了程序主界面和表单界面的数据传递
+使用SharedPreferences将程序数据保存在Android手机本地，实现简历数据的保存
